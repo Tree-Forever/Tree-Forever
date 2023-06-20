@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Learning interest:
+Learning and Use:
 <div id="boxes0">
     爬虫(web crawler)===>
     <img src="https://requests.readthedocs.io/en/latest/_static/requests-sidebar.png"  width=32 height=32 />  &nbsp&nbsp
