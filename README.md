@@ -14,14 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
 Learning and Use:
-<div id="boxes0">
-    爬虫(Requests)    &nbsp===&nbsp <img src="https://requests.readthedocs.io/en/latest/_static/requests-sidebar.png"  width=32 height=32 />  &nbsp&nbsp
-    图像处理(PIL)     &nbsp===&nbsp <img src="https://raw.githubusercontent.com/python-pillow/pillow-logo/main/pillow-logo-248x250.png"  width=32 height=32 />  &nbsp&nbsp
-    深度学习(PaddlePaddle)    &nbsp===&nbsp <img height="32" width="32" src="https://cdn.simpleicons.org/PaddlePaddle/blue" />  &nbsp&nbsp
-    web server(flask)         &nbsp===&nbsp <img height="32" width="32" src="https://cdn.simpleicons.org/flask" />  &nbsp&nbsp
-    <P>UI/GUI(Figma,Qt)    &nbsp===&nbsp
-    <img height="32" width="32" src="https://cdn.simpleicons.org/qt/58de86" />  &nbsp&nbsp
-    <img height="32" width="32" src="https://cdn.simpleicons.org/figma/black" />  &nbsp&nbsp
-    </P>
-</div>
+- 【Requests】<img src="https://requests.readthedocs.io/en/latest/_static/requests-sidebar.png"  width=32 height=32 />
+- 【图像处理(opencv, PIL)】<img src="https://raw.githubusercontent.com/python-pillow/pillow-logo/main/pillow-logo-248x250.png"  width=32 height=32 />
+- 【深度学习(PaddlePaddle)】<img height="32" width="32" src="https://cdn.simpleicons.org/PaddlePaddle/blue" />
+- 【web server(fastapi, flask)】<img height="32" width="32" src="https://cdn.simpleicons.org/flask" />
+- 【UI/GUI(Figma, Qt, streamlit)】<img height="32" width="32" src="https://cdn.simpleicons.org/qt/58de86" /> <img height="32" width="32" src="https://cdn.simpleicons.org/figma/black" />
+
