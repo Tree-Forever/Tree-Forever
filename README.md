@@ -16,9 +16,9 @@ Here are some ideas to get you started:
 -->
 
 Learning and Use:
-- 【Requests】<img src="https://requests.readthedocs.io/en/latest/_static/requests-sidebar.png"  width=32 height=32 />
-- 【图像处理(opencv, PIL)】<img src="https://raw.githubusercontent.com/python-pillow/pillow-logo/main/pillow-logo-248x250.png"  width=32 height=32 />
-- 【深度学习(PaddlePaddle)】<img height="32" width="32" src="https://cdn.simpleicons.org/PaddlePaddle/blue" />
-- 【web server(fastapi, flask)】<img height="32" width="32" src="https://cdn.simpleicons.org/flask" />
-- 【UI/GUI(Figma, Qt, streamlit)】<img height="32" width="32" src="https://cdn.simpleicons.org/qt/58de86" /> <img height="32" width="32" src="https://cdn.simpleicons.org/figma/black" />
+- 【Requests】<img src="https://requests.readthedocs.io/en/latest/_static/requests-sidebar.png" width=32 height=32 />
+- 【图像处理(opencv, PIL)】<img height="32" width="32" src="https://cdn.simpleicons.org/opencv" /> <img height="32" width="32" src="https://raw.githubusercontent.com/python-pillow/pillow-logo/main/pillow-logo-248x250.png" />
+- 【深度学习(PaddlePaddle)】<img height="32" width="32" src="https://cdn.simpleicons.org/PaddlePaddle" />
+- 【web server(fastapi, flask)】<img height="32" width="32" src="https://cdn.simpleicons.org/fastapi" /> <img height="32" width="32" src="https://cdn.simpleicons.org/flask" />
+- 【UI/GUI(Figma, Qt, streamlit)】<img height="32" width="32" src="https://cdn.simpleicons.org/figma" /> <img height="32" width="32" src="https://cdn.simpleicons.org/QT/58de86" /> <img height="32" width="32" src="https://cdn.simpleicons.org/streamlit" />
 
